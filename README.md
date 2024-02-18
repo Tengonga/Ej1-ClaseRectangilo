@@ -1,2 +1,2 @@
-Crear una clase Rect´angulo, con atributos base y altura. Crear tambi´en el constructor de la clase y
-los m´etodos necesarios para calcular el ´area y el per´ımetro
+Crear una clase Rectangulo, con atributos base y altura. Crear tambien el constructor de la clase y
+los metodos necesarios para calcular el area y el perımetro
